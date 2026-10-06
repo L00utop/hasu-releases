@@ -5,5 +5,4 @@
 O **Hasu** é um companheiro de desktop em pixel art para Windows com suporte a múltiplos monitores, controles de mídia e lembretes de bem-estar.
 
 - 🌐 **Site Oficial:** [hasu.com.br](https://hasu.com.br)
-- 💬 **Discord da Comunidade:** [discord.gg/hasupet](https://discord.gg/hasupet)
 - 📥 **Última Versão:** Consulte a aba [Releases](https://github.com/L00utop/hasu-releases/releases).
